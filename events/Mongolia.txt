@@ -278,7 +278,7 @@ country_event = { # Tibet accepts our Offer
 	option = {
 		name = mongolia.4.a
 
-		create_faction = "Pan-Buddhist National Liberation Front"
+		create_faction = "汎仏教徒国家解放戦線"
 
 		add_to_faction = TIB
 		TIB = {
@@ -14129,7 +14129,7 @@ country_event = { #joining factions
 						ruling_only = yes
 					} 
 				}
-				create_faction = "Comintern"
+				create_faction = "コミンテルン"
 			}
 			if = {
 				limit = {
@@ -14139,7 +14139,7 @@ country_event = { #joining factions
 						ruling_only = yes
 					} 
 				}
-				create_faction = "United Revolutionary Front"
+				create_faction = "革命統一戦線"
 			}
 			if = {
 				limit = {
@@ -14149,7 +14149,7 @@ country_event = { #joining factions
 						ruling_only = yes
 					}
 				}
-				create_faction = "The Red Horde"
+				create_faction = "赤軍団"
 			}
 			if = {
 				limit = {
@@ -14159,7 +14159,7 @@ country_event = { #joining factions
 						ruling_only = yes
 					}
 				}
-				create_faction = "Universal Social Kinship of All Under the Sky"
+				create_faction = "全地上の四海兄弟"
 			}
 		}
 	option = { #Wholesome
