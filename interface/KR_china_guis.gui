@@ -12,7 +12,7 @@ guiTypes = {
 			position = { x = 17 y = 0 }
 			spriteType = "GFX_button_china_alignment"
 			buttonFont = "hoi_16mbs"
-			pdx_tooltip = "Chinese Factions"			
+			pdx_tooltip = "中国各派"			
 		}
 	}
 
@@ -45,7 +45,7 @@ guiTypes = {
 			position = { x = 75 y = 9 }
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}
-			text = "Chinese Alignment"
+			text = "中華陣営"
 			maxWidth = 500
 			maxHeight = 20
 			format = left
@@ -153,7 +153,7 @@ guiTypes = {
 			position = { x = 17 y = 0 }
 			quadTextureSprite ="GFX_button_148x34"
 			buttonFont = "hoi_16mbs"
-			buttonText = "Path Guides"
+			buttonText = "ルートガイド"
 		}
 	}
 	
@@ -182,7 +182,7 @@ guiTypes = {
 			position = { x = 75 y = 9 }
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}
-			text = "Kaiserredux Path Guides"
+			text = "Kaiserredux ルートガイド"
 			maxWidth = 500
 			maxHeight = 20
 			format = left	

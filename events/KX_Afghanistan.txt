@@ -5950,7 +5950,7 @@ country_event = { # Faction Decision
 	
 	option = {
 		name = afghanredux.88.a
-		create_faction =  "Kabul Pact"
+		create_faction =  "カブール条約機構"
 	}
 	option = {
 		name = afghanredux.88.b

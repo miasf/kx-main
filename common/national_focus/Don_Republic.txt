@@ -1985,7 +1985,7 @@ focus_tree = {
 			focus = DKB_project_novorossia
 		}
 		completion_reward = {
-			create_faction = "Cossack Pact"
+			create_faction = "コサック条約機構"
 			}
 		}
 	focus = {
@@ -3388,7 +3388,7 @@ focus_tree = {
 			focus = DKB_Fate_of_our_Allies
 		}
 		completion_reward = {
-			create_faction = "Moscow Accord"
+			create_faction = "モスクワ合意"
 		}
 	}
 	focus = {
@@ -6614,7 +6614,7 @@ focus = {
 		completion_reward = {
 			add_ideas = DKB_new_patriot_idea
 			set_country_flag = DKB_germanization
-			set_province_name = { id = 9417 name = "Rostow"}
+			set_province_name = { id = 9417 name = "ロストウ"}
 			hidden_effect = {
 				every_controlled_state = { rename_state_effect = yes }
 			}
@@ -11619,7 +11619,7 @@ focus = {
 			unlock_decision_category_tooltip = RUS_Alliance_decisions
 			if = {
 				limit = { is_faction_leader = no }
-				create_faction = "Axis of Liberated Peoples"
+				create_faction = "人民解放枢軸"
 			}
 		}
 	}
