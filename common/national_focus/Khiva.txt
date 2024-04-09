@@ -485,7 +485,7 @@ focus_tree = {
 			}
 		}
 		completion_reward = {
-			create_faction = "ヒヴァ連合"
+			create_faction = "Khivan Union"
 			unlock_decision_category_tooltip = TRK_unite_central_asia
 		}
 	}

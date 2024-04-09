@@ -7565,10 +7565,10 @@ country_event = {	#An Alliance of Convenience
 			limit = { tag = AUS }
 			if = {
 				limit = { is_in_faction = no }
-				create_faction = "サラエヴォ合意"
+				create_faction = "Sarajevo Accords"
 			}
 			else = {
-				set_faction_name = "サラエヴォ合意"
+				set_faction_name = "Sarajevo Accords"
 			}
 			hidden_effect = {
 				TUR = {

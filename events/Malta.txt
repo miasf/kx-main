@@ -1485,7 +1485,7 @@ country_event = { #which man larp man
 	option = { #cool
 		name = mlt.31.b
 		set_country_flag = MLT_by_ourselves
-		create_faction = "エルサレム及び聖地奪還のための神聖同盟"
+		create_faction = "Holy League for the Liberation of Jerusalem and the Holy Places"
 	}
 	
 }

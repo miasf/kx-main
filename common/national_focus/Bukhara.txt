@@ -713,7 +713,7 @@ focus_tree = {
 		}
 		completion_reward = {
 			TRK = { 
-				create_faction = "ブハラ連合"
+				create_faction = "Bukharan Union"
 			}
 			unlock_decision_category_tooltip = TRK_unite_central_asia
 		}
